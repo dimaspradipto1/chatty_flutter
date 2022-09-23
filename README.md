@@ -1,13 +1,11 @@
 # flutter_chatty
 
-A new Flutter project.
+aplikasi chat
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-#API
-https://bwa-cozy.herokuapp.com/recommended-spaces
 
 A few resources to get you started if this is your first Flutter project:
 
